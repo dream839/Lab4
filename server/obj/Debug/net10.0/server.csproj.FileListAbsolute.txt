@@ -1,0 +1,15 @@
+C:\Users\Computer\Desktop\Laba4\server\bin\Debug\net10.0\server.exe
+C:\Users\Computer\Desktop\Laba4\server\bin\Debug\net10.0\server.deps.json
+C:\Users\Computer\Desktop\Laba4\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\Computer\Desktop\Laba4\server\bin\Debug\net10.0\server.dll
+C:\Users\Computer\Desktop\Laba4\server\bin\Debug\net10.0\server.pdb
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.dll
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.pdb
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\Computer\Desktop\Laba4\server\obj\Debug\net10.0\ref\server.dll
