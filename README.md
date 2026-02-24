@@ -168,23 +168,15 @@ $$
 ## Screenshot
 ![1](repo/Fedorov_ISP-233_2026-02-24_17-48.png)
 ---
-![1]()
+![2](repo/Fedorov_ISP-233_2026-02-24_18-10.png)
 ---
-![1](repo/Fedorov_ISP-233_2026-02-24_17-56.png)
+![3](repo/Fedorov_ISP-233_2026-02-24_17-56.png)
 ---
-![1](repo/AbdulinRR_ISP-233_2026-01-19_14-30.png)
+![1](repo/Fedorov_ISP-233_2026-02-24_18-14.png)
 ---
-![1](repo/AbdulinRR_ISP-233_2026-01-19_14-35.png)
+![1](repo/Fedorov_ISP-233_2026-02-24_18-15.png)
 ---
-![1](repo/AbdulinRR_ISP-233_2026-01-19_14-36.png)
----
-![1](repo/AbdulinRR_ISP-233_2026-01-19_15-02.png)
----
-![1](repo/AbdulinRR_ISP-233_2026-01-19_15-03.png)
----
-![1](repo/AbdulinRR_ISP-233_2026-01-19_15-04.png)
----
-![1](repo/AbdulinRR_ISP-233_2026-01-19_15-20.png)
+![1](repo/Commit_2026-02-24_18-20.png)
 ---
 ## Заключение
-**Я большой молодец!**
+**Я большой красавец!**
